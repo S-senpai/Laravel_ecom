@@ -1,0 +1,40 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	background-image: url('adamas1.jpeg');
+	background-attachment: fixed;
+	background-repeat:no-repeat ;
+	background-size: cover;
+}
+
+.link {
+	font-size: 20px;
+}
+
+.left {
+	float: right;
+}
+
+.logo-img{
+    float: left;
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+
+.card {
+	/*display: flex;*/
+	width: 400px;
+	height: 300px;
+	padding-left: 100px;
+	padding-top: 60px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	padding-top: 100px;
+}
+
+.icon {
+	padding-left: 0px;
+}
